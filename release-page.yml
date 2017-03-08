@@ -3,6 +3,7 @@ orgs:
   - jupyter
   - jupyterhub
   - jupyterlab
+  - jupyter-widgets
 repos:
   - zeromq/pyzmq
 exclude_repos:
